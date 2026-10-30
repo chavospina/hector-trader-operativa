@@ -1,0 +1,1 @@
+# hector-trader-operativa
